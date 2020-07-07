@@ -32,7 +32,7 @@ Iteration 1            |  Iteration 24    | Iteration 50
   
  Layer 0  (Multi Channel)    |   Layer 3  (Single Channel)      |  Layer 6   (single Channel)
 :-------------------------:|:-------------------------:|:-------------------------:
-<img align='center' src="https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/output/ResNet_layer_0.png" width="400 height="400"> |![et_Layer3](https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/Layer3_AlexNet_SingleChannel.png) |  ![AlexNet_Layer6](https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/Layer6_AlexNet_SingleChannel.png)
+<img align='center' src="https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/output/ResNet_layer_0.png" width="350" height="350" title="ResNet_Layer0_Output"> | <img align='center' src="https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/output/ResNet_layer_24.png" width="350" height="350" title="ResNet_Layer24_Output"> |  <img align='center' src="https://github.com/AvisP/PyTorchPractice/blob/master/LayerVisualization/output/ResNet_layer_48.png" width="350" height="350" title="ResNet_Layer48_Output">
 
 
   

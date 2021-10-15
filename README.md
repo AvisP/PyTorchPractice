@@ -1,5 +1,5 @@
 # PyTorchPractice
-Practicing pytorch by understanding others code
+Pytorch implementation of visulaization of Convolutional Neural Nework weights
 
 <h3>Variational Encoder on MNIST</h3>
   
